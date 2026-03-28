@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 🛠️ Tech Stack
 
 **Languages:**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,9 +41,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil09-rlets&show_icons=true&theme=radical&hide_border=true)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-rlets&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -59,7 +61,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 <table>
   <tr>
     <td width="50%">
-      <h3>🔗 <a href="https://github.com/sahil09-rlets/project-name">Project One</a></h3>
+      <h3>🔗 <a href="https://github.com/sahil09-r/project-name">Project One</a></h3>
       <p>Brief description of your amazing project. What problem does it solve?</p>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -67,7 +69,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
       </p>
     </td>
     <td width="50%">
-      <h3>🔗 <a href="https://github.com/sahil09-rlets/project-name">Project Two</a></h3>
+      <h3>🔗 <a href="https://github.com/sahil09-r/project-name">Project Two</a></h3>
       <p>Brief description of your second project. What makes it special?</p>
       <p>
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -122,7 +124,7 @@ If you find my projects helpful, please consider:
 </p>
 
 <p align="center">
-  <a href="https://github.com/sahil09-rlets">
-    <img src="https://komarev.com/ghpvc/?username=sahil09-rlets&color=blue" alt="Profile Views" />
+  <a href="https://github.com/sahil09-r">
+    <img src="https://komarev.com/ghpvc/?username=sahil09-r&color=blue" alt="Profile Views" />
   </a>
 </p>
