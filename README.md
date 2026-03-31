@@ -61,8 +61,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 <table>
   <tr>
     <td width="50%">
-      <h3>🔗 <a href="https://github.com/sahil09-r/project-name">Project One</a></h3>
-      <p>Brief description of your amazing project. What problem does it solve?</p>
+      <h3>🔗 <a href="https://genai-yolo.vercel.app/">Project One</a></h3>
+      <p>GenAI-YOLO: Traffic Intelligence Platform
+GenAI-YOLO is an AI-powered traffic intelligence dashboard built with modern web technologies. It leverages YOLO (You Only Look Once) computer vision models to detect, classify, and analyze vehicles and traffic patterns in real time. The platform provides actionable insights for smart cities, transport authorities, and fleet managers to optimize traffic flow and improve urban mobility
+</p>
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
