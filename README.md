@@ -68,9 +68,9 @@ GenAI-YOLO is an AI-powered traffic intelligence dashboard built with modern web
       <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img alt="Supabase" src="https://img.shields.io/badge/Project%20One-Supabase%20Backend-brightgreen"/>
-        <img alt="CSS" src="https://img.shields.io/badge/Project%20One-CSS-blue"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/Project%20One-TypeScript-yellow"/>
+        <img alt="Supabase" src="https://img.shields.io/badge/-Supabase%20Backend-brightgreen"/>
+        <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-yellow"/>
       </p>
     </td>
     <td width="50%">
