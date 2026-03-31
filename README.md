@@ -71,7 +71,6 @@ GenAI-YOLO is an AI-powered traffic intelligence dashboard built with modern web
         <img alt="Supabase" src="https://img.shields.io/badge/Project%20One-Supabase%20Backend-brightgreen"/>
         <img alt="CSS" src="https://img.shields.io/badge/Project%20One-CSS-blue"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/Project%20One-TypeScript-yellow"/>
-        \n\n# Project One\n\nDetails of the project will go here
       </p>
     </td>
     <td width="50%">
