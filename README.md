@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sahil
 
-### 🚀 Full-Stack Software Developer | Open Source Enthusiast | Tech Lover
+### 🚀 Full-Stack Software Developer | Open Source Enthusiast | Tech spirited 
 
 Welcome to my GitHub profile! I'm passionate about building scalable applications, contributing to open source, and sharing knowledge with the developer community.
 
