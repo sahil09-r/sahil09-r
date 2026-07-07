@@ -71,10 +71,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" alt="Sahil's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak"/>
