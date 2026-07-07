@@ -77,9 +77,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
   <img src="https://streak-stats.demolab.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahil09-r&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-</div>
+
 
 <div align="center">
   <sub>
