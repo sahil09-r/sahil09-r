@@ -107,22 +107,7 @@ be rate-limited. Setup required (one-time, ~2 minutes): see
 setup steps at the bottom of this file.
 -->
 
-<details>
-<summary>💡 <b>Widgets not loading? Click here — Self-hosting for 100% uptime</b></summary>
-<br>
 
-The cards above use free, shared public services that occasionally hit GitHub's rate limits when too many profiles use them at once (a widely-reported issue on their repos, not specific to this file).
-
-If you want highly reliable cards:
-
-1. Fork **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)** and **[github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)**
-2. Deploy each fork to your own free [Vercel](https://vercel.com) account (one-click "Deploy" button in each repo's README)
-3. Generate a [GitHub Personal Access Token](https://github.com/settings/tokens) and add it as an environment variable (`PAT_1`) in your Vercel project
-4. Swap `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` in the image URLs above for your own `*.vercel.app` domain
-
-This gives you a dedicated instance that isn't affected by anyone else's traffic.
-
-</details>
 
 ---
 
@@ -188,8 +173,8 @@ This gives you a dedicated instance that isn't affected by anyone else's traffic
 | 💼 LinkedIn | [linkedin.com/in/sahil-sinha](https://www.linkedin.com/in/sahil-sinha-512214333) |
 | 🐦 Twitter | [@sahil](https://twitter.com/sahil) |
 | 📧 Email | [sahilsrivastw3@gmail.com](mailto:sahilsrivastw3@gmail.com) |
-| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
-| 📝 Blog | [your-blog.com](https://your-blog.com) |
+| 🌐 Portfolio | [your-portfolio.com](https://sahil-portfolio-2007.vercel.app/) |
+
 
 </div>
 
