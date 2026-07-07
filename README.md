@@ -72,12 +72,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Sahil's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" alt="Sahil's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahil09-r&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -85,7 +85,18 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahil09-r/sahil09-r/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="95%"/>
+  <sub>
+    If a card is temporarily rate-limited, use fallback links:
+    <a href="https://github.com/sahil09-r">Profile</a> •
+    <a href="https://github.com/sahil09-r?tab=repositories">Repositories</a>
+  </sub>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil09-r/sahil09-r/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/sahil09-r/sahil09-r/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="95%"/>
+  </picture>
 </div>
 
 <!--
@@ -103,7 +114,7 @@ The snake animation above replaces the old live "activity-graph" widget.
 Unlike that widget, it is NOT fetched live — it's a static SVG regenerated
 daily by a GitHub Action and committed to your profile repo, so it can't
 be rate-limited. Setup required (one-time, ~2 minutes): see
-".github/workflows/snake.yml" provided alongside this README, and the
+".github/workflows/snake.yml" in this repository, and the
 setup steps at the bottom of this file.
 -->
 
