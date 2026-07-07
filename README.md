@@ -72,8 +72,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sahil's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Sahil's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil09-r&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -81,12 +81,46 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahil09-r&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahil09-r&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil09-r&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/sahil09-r/sahil09-r/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my contribution graph" width="95%"/>
 </div>
+
+<!--
+NOTE ON RELIABILITY:
+The stats/top-langs/trophy cards above are served by shared public widgets
+(github-readme-stats.vercel.app and github-profile-trophy.vercel.app).
+These get rate-limited by GitHub's API during high-traffic periods across
+ALL users of the free tier — this is a known, widely-reported issue and not
+something wrong with this file. They usually recover on their own within
+minutes to a few hours. If you want them to NEVER go down, self-host your
+own instance (free, ~5 min setup) — see the "Self-hosting for 100% uptime"
+note at the bottom of this file for steps.
+
+The snake animation above replaces the old live "activity-graph" widget.
+Unlike that widget, it is NOT fetched live — it's a static SVG regenerated
+daily by a GitHub Action and committed to your profile repo, so it can't
+be rate-limited. Setup required (one-time, ~2 minutes): see
+".github/workflows/snake.yml" provided alongside this README, and the
+setup steps at the bottom of this file.
+-->
+
+<details>
+<summary>💡 <b>Widgets not loading? Click here — Self-hosting for 100% uptime</b></summary>
+<br>
+
+The cards above use free, shared public services that occasionally hit GitHub's rate limits when too many profiles use them at once (a widely-reported issue on their repos, not specific to this file). They typically recover on their own. For a permanent fix:
+
+1. Fork **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)** and **[github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)**
+2. Deploy each fork to your own free [Vercel](https://vercel.com) account (one-click "Deploy" button in each repo's README)
+3. Generate a [GitHub Personal Access Token](https://github.com/settings/tokens) and add it as an environment variable (`PAT_1`) in your Vercel project
+4. Swap `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` in the image URLs above for your own `*.vercel.app` domain
+
+This gives you a dedicated instance that isn't affected by anyone else's traffic.
+
+</details>
 
 ---
 
