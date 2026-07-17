@@ -72,13 +72,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak" />
 </div>
-
-
 
 <div align="center">
   <sub>
@@ -113,8 +109,6 @@ be rate-limited. Setup required (one-time, ~2 minutes): see
 ".github/workflows/snake.yml" in this repository, and the
 setup steps at the bottom of this file.
 -->
-
-
 
 ---
 
