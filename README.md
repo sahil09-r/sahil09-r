@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil09-r&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil09-r&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
