@@ -1,0 +1,47 @@
+name: Generate GitHub Stats SVG
+
+# Runs on a schedule and can be triggered manually
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch stats SVG
+        env:
+          USERNAME: sahil09-r
+          THEME: radical
+          CACHE_SECONDS: 86400
+        run: |
+          set -euo pipefail
+          mkdir -p output
+          URL="https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&theme=${THEME}&cache_seconds=${CACHE_SECONDS}"
+          echo "Fetching: $URL"
+          curl -sSL "$URL" -o output/github-readme-stats.svg
+          if [ ! -s output/github-readme-stats.svg ]; then
+            echo "Failed to fetch SVG or file empty" >&2
+            exit 1
+          fi
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-readme-stats.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update self-hosted GitHub stats SVG"
+            git push
+          fi
